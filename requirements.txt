@@ -1,0 +1,7 @@
+Atmega AVR
+DS18b20
+DHT22
+TM1637 display module
+SolidState relay module
+Encodur module
+
