@@ -10,4 +10,14 @@ DHT22</br>
 TM1637 display module</br>
 SolidState relay module</br>
 Encodеr module</br>
+Подключение енкодера:</br>
+CLK D4  DT D3  SW D5</br>
+Подключение DS18b20:</br>
+A0 A3</br>
+Подключение DHT:</br>
+Data A2</br>
+PWR D2</br>
+Подключение Нагревателя:</br>
+D7</br>
+Опциональное подключение увлажнителя D8</br>
  Автор: [К.Гурашкин](<https://github.com/CrockoMan>)
